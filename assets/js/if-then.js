@@ -44,7 +44,7 @@ if(B === C){
 
 }
 else{
-        console.log(true);
+     console.log(true);
         
     }
 //opgave 6: Skriv en If then statement der sammenligner B = C og E = A hvis B=C skal den blive TRUE. 
